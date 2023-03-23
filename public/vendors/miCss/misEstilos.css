@@ -1,0 +1,111 @@
+/* DATATABLE */
+/* COLOR DEL THEAD DEL DATATABLE */
+
+
+
+
+
+.estado{
+	text-align: center;
+}
+
+.boton{
+	text-align: center;
+}
+
+/* MODALES */
+.modal-header{
+	background-color:#a29899;
+}
+
+.asterisco{
+	color: red;
+}
+
+.panel-body {
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#subTotal {
+	width: 100px;
+	border-color: green;
+	padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#spTotal {
+    width: 100px;
+    border-color: green;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+
+#iva {
+    width: 100px;
+    border-color: green;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+#totalCom {
+    width: 100px;
+    border-color: green;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+#totalVen {
+    width: 100px;
+    border-color: green;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+#total {
+    width: 100px;
+    border-color: green;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+.excel {
+
+   background-color: #207245;
+   color: white;
+
+}
+
+.input {
+    height: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
